@@ -1,6 +1,17 @@
-## Sunrise Community
+# 🌅 Sunrise Community
 
-> [!IMPORTANT] 
-> 
-> ![](https://i.redd.it/6hunsysg2xqa1.jpg)
+<p align="center">
+  <img src="./readme.png" alt="thumbnail">
+</p>
 
+## 📖 About
+
+We are developing osu! private server called "Sunrise". Our goal is to provide a better experience for osu! players by adding new features and improving existing ones.
+
+## 📚 Contribute
+
+We are open to contributions. If you want to contribute to the project, you can start by forking any of the repositories and creating a pull request.
+
+## 📝 License
+
+All of our projects are licensed under the MIT license. You can read the license [here](./LICENSE).
