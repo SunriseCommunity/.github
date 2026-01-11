@@ -29,6 +29,9 @@ We are developing osu! private server called "Sunrise". Our goal is to provide a
 - [x] [**🌻 Sunshine (Discord Bot)**](https://github.com/SunriseCommunity/Sunshine)  
   A Discord bot that integrates directly with your Sunrise server, delivering community features and server utilities directly into your Discord server.
 
+- [x] [**🧭 Compass (Documentation)**](https://github.com/SunriseCommunity/Compass)  
+  Comprehensive documentation for setting up, configuring, and using the Sunrise server and its components.
+
 
 
 ## 📦 How to Set Up
@@ -38,6 +41,9 @@ Please follow the [official documentation](https://docs.sunrize.uk) for instruct
 ## 📚 Contribute
 
 We are open to contributions. If you want to contribute to the project, you can start by forking any of the repositories and creating a pull request.
+
+> [!TIP]
+> Want to help but don't know what to do? :shipit: Feel free then to join our [Discord server](https://discord.gg/BjV7c9VRfn), there we have specific feature requests channel and you can ask any question to maintainers of this project!
 
 ## 📝 License
 
