@@ -8,6 +8,29 @@
 
 We are developing osu! private server called "Sunrise". Our goal is to provide a better experience for osu! players by adding new features and improving existing ones.
 
+## Preview 🖼️
+
+![preview](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/preview.jpg)
+
+## What are we building? 🏗️
+
+- [x] [**🚀 Solar System**](https://github.com/SunriseCommunity/Solar-System)
+  The Sunrise server orchestrator. Manages and deploys all Sunrise components using Docker and Docker Compose. Provides easy setup and configuration for server administrators with versioning support.
+
+- [x] [**🌅 Sunrise (Server Core)**](https://github.com/SunriseCommunity/Sunrise)  
+  The main server backend, handling core game logic and API for osu! servers.
+
+- [x] [**🌇 Sunset (Frontend)**](https://github.com/SunriseCommunity/Sunset)  
+  The frontend web interface of Sunrise. Allows to browse profiles, leaderboards, multiplayer lobbies, and manage users/beatmaps using admin panel.
+
+- [x]  [**🔭 Observatory (Beatmap Manager)**](https://github.com/SunriseCommunity/Observatory)  
+  Powerful "on demand" beatmap manager which uses osu! API and popular beatmap mirrors to prioritize speed and efficiency. Used by Sunrise to fetch beatmaps and calculate performance points.
+
+- [x] [**🌻 Sunshine (Discord Bot)**](https://github.com/SunriseCommunity/Sunshine)  
+  A Discord bot that integrates directly with your Sunrise server, delivering community features and server utilities directly into your Discord server.
+
+
+
 ## 📦 How to Set Up
 
 Please follow the [official documentation](https://docs.sunrize.uk) for instructions on how to host your own instance of Sunrise.
