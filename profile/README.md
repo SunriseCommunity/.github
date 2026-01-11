@@ -14,7 +14,7 @@ We are developing osu! private server called "Sunrise". Our goal is to provide a
 
 ## What are we building? 🏗️
 
-- [x] [**🚀 Solar System**](https://github.com/SunriseCommunity/Solar-System)
+- [x] [**🚀 Solar System (Orchestrator)**](https://github.com/SunriseCommunity/Solar-System)  
   The Sunrise server orchestrator. Manages and deploys all Sunrise components using Docker and Docker Compose. Provides easy setup and configuration for server administrators with versioning support.
 
 - [x] [**🌅 Sunrise (Server Core)**](https://github.com/SunriseCommunity/Sunrise)  
