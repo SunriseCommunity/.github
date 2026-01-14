@@ -1,7 +1,7 @@
 # 🌅 Sunrise Community
 
 <p align="center">
-  <img src="./readme.png" alt="thumbnail">
+  <img src="https://github.com/SunriseCommunity/.github/blob/main/profile/readme.png" alt="thumbnail">
 </p>
 
 ## 📖 About
